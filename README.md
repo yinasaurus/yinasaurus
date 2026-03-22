@@ -4,9 +4,6 @@
 
 **Building software, learning in public, and trying not to go extinct.**
 
-[![GitHub followers](https://img.shields.io/github/followers/yinasaurus?style=social)](https://github.com/yinasaurus)
-[![GitHub yinasaurus](https://img.shields.io/github/stars/yinasaurus?style=social)](https://github.com/yinasaurus)
-
 </div>
 
 ---
@@ -17,32 +14,40 @@ I'm an undergraduate at the **School of Computing and Information Systems**, **S
 
 I'm passionate about **software engineering**, **cybersecurity**, and **AI**, with a focus on building secure, intelligent solutions that address real-world problems. I'm especially interested in how **AI** can optimize systems and strengthen security.
 
-I'm always looking to learn more and meet people in tech — feel free to reach out. (And yes, the *-saurus* is still evolving.)
+I'm always looking to learn more and meet people in tech — feel free to reach out.
 
 ---
 
 ### Tech I use
 
+**Languages & web**
+
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
-  <!-- Add/remove badges: https://shields.io -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
 </p>
 
----
+**Data & messaging**
 
-### GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yinasaurus&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="yinasaurus's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinasaurus&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yinasaurus&theme=transparent&hide_border=true" alt="GitHub streak" />
+**Platforms & ops**
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
+
+*Also experimented with TypeScript and React — still leveling those up.*
 
 ---
 
@@ -55,5 +60,5 @@ I'm always looking to learn more and meet people in tech — feel free to reach 
 </p>
 
 <p align="center">
-  <sub>Thanks for stopping by — feel free to star a repo or open an issue if something breaks.</sub>
+  <sub>Thanks for stopping by.</sub>
 </p>
