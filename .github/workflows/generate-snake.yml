@@ -1,0 +1,44 @@
+# Regenerates contribution-snake SVGs (light + dark) into assets/snake/ on main.
+# Readable placeholders ship in-repo; this job overwrites them on a schedule.
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/generate-snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Copy into assets/snake
+        run: |
+          mkdir -p assets/snake
+          cp dist/github-contribution-grid-snake.svg assets/snake/
+          cp dist/github-contribution-grid-snake-dark.svg assets/snake/
+
+      - name: Commit updated snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution snake"
+          file_pattern: assets/snake/*.svg

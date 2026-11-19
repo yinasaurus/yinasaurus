@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake placeholder (dark)</title>
+  <desc id="desc">Run the Generate contribution snake workflow to replace this placeholder.</desc>
+  <rect width="840" height="120" fill="#0d1117"/>
+  <rect x="1" y="1" width="838" height="118" fill="none" stroke="#30363d" stroke-width="2" rx="8"/>
+  <text x="420" y="55" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, sans-serif" font-size="18">Contribution snake  awaiting first Actions run</text>
+  <text x="420" y="82" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">Actions ’ Generate contribution snake ’ Run workflow</text>
+</svg>
