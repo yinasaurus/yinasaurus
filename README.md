@@ -28,21 +28,21 @@ I spend most of my time on **software engineering**, **cybersecurity**, and **AI
 
 ### Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Dejavistaa](https://github.com/yinasaurus/dejavistaa)** | Fashion browsing memory + Gemini virtual try-on. Started as a hackathon app, now a Chrome extension. | JS, Supabase, Gemini, Vercel |
-| **[ConnectSphere](https://github.com/yinasaurus/ConnectSphere)** | Event planning and venue booking for IS212 — requests, venues, safety checks, attendees. | React, Node, Express, Supabase, CI |
-| **[AURA](https://github.com/yinasaurus/aura-astronaut-health-twin)** | Health twin for a simulated Mars crew. Built for NASA Space Apps 2026. | TypeScript, Vite, React |
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **Dejavistaa** | Fashion browsing memory + Gemini virtual try-on. Started as a hackathon app, now a Chrome extension. | JS, Supabase, Gemini, Vercel | [Live](https://dejavistaa.vercel.app) · [Repo](https://github.com/yinasaurus/dejavistaa) |
+| **ConnectSphere** | Event planning and venue booking for IS212 — requests, venues, safety checks, attendees. | React, Node, Express, Supabase, CI | [Repo](https://github.com/yinasaurus/ConnectSphere) |
+| **AURA** | Health twin for a simulated Mars crew. Built for NASA Space Apps 2026. | TypeScript, Vite, React | [Repo](https://github.com/yinasaurus/aura-astronaut-health-twin) |
 
 <details>
   <summary><strong>Other stuff I've worked on</strong></summary>
   <br />
 
-  | Project | What it is | Stack |
-  | --- | --- | --- |
-  | **[Hack for Humanity / Buddi](https://github.com/yinasaurus/hack-for-humanity)** | Meal companion for anorexia-supportive care — patient app + clinician dashboard | Expo, Express, React, OpenAI |
-  | **[Splendor](https://github.com/yinasaurus/splendor)** | Java Splendor engine with console + web UI and three AI difficulties | Java, JS, CSS |
-  | **[e-waste](https://github.com/yinasaurus/e-waste)** | Circular-economy prototype: used-laptop pricing + a specs-to-need chat helper | Python, Flask, React, sklearn |
+  | Project | What it is | Stack | Links |
+  | --- | --- | --- | --- |
+  | **Hack for Humanity / Buddi** | Meal companion for anorexia-supportive care — patient app + clinician dashboard | Expo, Express, React, OpenAI | [Repo](https://github.com/yinasaurus/hack-for-humanity) |
+  | **Splendor** | Java Splendor engine with console + web UI and three AI difficulties | Java, JS, CSS | [Live](https://splendor-coral.vercel.app) · [Repo](https://github.com/yinasaurus/splendor) |
+  | **e-waste** | Circular-economy prototype: used-laptop pricing + a specs-to-need chat helper | Python, Flask, React, sklearn | [Repo](https://github.com/yinasaurus/e-waste) |
 
 </details>
 
