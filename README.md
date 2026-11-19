@@ -66,9 +66,9 @@ Stuff I've actually used in the projects above.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg" />
-    <img src="./assets/snake/github-contribution-grid-snake.svg" alt="GitHub contribution snake for yinasaurus" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg?v=2" />
+    <img src="./assets/snake/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake for yinasaurus" width="100%" />
   </picture>
 </p>
 
