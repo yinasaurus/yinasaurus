@@ -4,12 +4,12 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"
+    # Every 6 hours so today's squares show up without a manual re-run
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+  # Refresh after profile README / asset pushes too
   push:
     branches: [main]
-    paths:
-      - ".github/workflows/generate-snake.yml"
 
 permissions:
   contents: write
