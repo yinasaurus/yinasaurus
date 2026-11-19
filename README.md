@@ -22,7 +22,7 @@ Building software, learning in public, and trying not to go extinct.
 
 I'm an undergraduate at the **School of Computing and Information Systems**, **Singapore Management University**.
 
-I spend most of my time on **software engineering**, **cybersecurity**, and **AI** — usually by building something, then poking at how it breaks. Always down to learn and meet people in tech. (Yes, the *-saurus* is still evolving.)
+I spend most of my time on **software engineering**, **cybersecurity**, and **AI** — usually by building something, then poking at how it breaks. Always down to learn and meet people in tech.
 
 ---
 
