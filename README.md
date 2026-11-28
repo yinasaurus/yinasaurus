@@ -8,7 +8,7 @@
 
 # Hi, I'm Shiyin — [@yinasaurus](https://github.com/yinasaurus)
 
-**Year 3 CS @ SMU SCIS · seeking SWE & AI internships, Summer 2027**
+**Year 3 IS @ SMU SCIS · seeking SWE & AI internships, Summer 2027**
 
 Building software, learning in public, and trying not to go extinct.
 
